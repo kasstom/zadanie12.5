@@ -1,0 +1,35 @@
+body {
+	background-color: #EDE7D9;
+	text-align: center;
+}
+
+h1 {
+	color: #A49694;
+}
+
+.box {
+	color: #736B60;
+	font-style: italic;
+}
+
+.trigger {
+	display: inline-block;
+	background-color: #D5A021;
+	color: #EDE7D9;
+	font-size: 20px;
+	padding: 20px;
+	margin: 15px;
+}
+
+.tweet {
+	display: inline-block;
+	text-decoration: none;
+	font-style: italic;
+	color: #4B4237;
+	border: 1px solid #4B4237;
+	padding: 10px;
+	margin: 10px; 
+}
+
+
+
